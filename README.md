@@ -114,7 +114,8 @@ ii)Using Weighted Averaging Filter
 
 iii)Using Gaussian Filter
 
-![Uploading download (2).png…]()
+<img width="498" height="409" alt="download (2)" src="https://github.com/user-attachments/assets/a8405797-ba5b-447f-ade9-ad938fb27bad" />
+
 
 
 iv) Using Median Filter
