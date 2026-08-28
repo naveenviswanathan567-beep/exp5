@@ -19,6 +19,8 @@ Anaconda - Python 3.7
 Developed By : NAVEEN V Register Number: 212225240098
 
 Smoothing Filters i) Using Averaging Filter
+```
+
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
@@ -99,6 +101,8 @@ plt.imshow(laplacian)
 plt.title("Laplacian Operator")
 plt.axis("off")
 plt.show()
+```
+
 OUTPUT:
 
 Smoothing Filters
